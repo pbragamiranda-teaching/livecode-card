@@ -1,0 +1,27 @@
+/* --- Fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&family=Ubuntu+Mono:ital@1&display=swap');
+/*font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu Mono', monospace;*/
+
+/* Components */
+@import url(components/avatar.css);
+@import url(components/button.css);
+@import url(components/card.css);
+@import url(components/utilities.css);
+
+
+body {
+  font-family: "Open Sans", "Helvetica", "sans-serif";
+  padding-bottom: 200px;
+  margin: 0;
+  background: #F4F4F4;
+}
+h1, h2, h3 {
+  font-family: "Poppins", "sans-serif";
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
